@@ -19,8 +19,8 @@ Requirements
 Here are links to the labeled data for [vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) examples to train the classifier.  These example images come from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), the [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/), and examples extracted from the project video itself.
 
 ### Code Locations
-[The code for the project can be found here](./Project.ipynb)
-[The code for visualisations can be found here](./Visualisations.ipynb)
+ - [The code for the project can be found here](./Project.ipynb)
+ - [The code for visualisations can be found here](./Visualisations.ipynb)
 
 **Location of training Data**
 
